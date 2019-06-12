@@ -1,0 +1,7 @@
+C:\Users\scorp\Desktop\Dungeon\Dungeon\bin\Debug\Dungeon.exe.config
+C:\Users\scorp\Desktop\Dungeon\Dungeon\bin\Debug\Dungeon.exe
+C:\Users\scorp\Desktop\Dungeon\Dungeon\bin\Debug\Dungeon.pdb
+C:\Users\scorp\Desktop\Dungeon\Dungeon\obj\Debug\Dungeon.csprojAssemblyReference.cache
+C:\Users\scorp\Desktop\Dungeon\Dungeon\obj\Debug\Dungeon.csproj.CoreCompileInputs.cache
+C:\Users\scorp\Desktop\Dungeon\Dungeon\obj\Debug\Dungeon.exe
+C:\Users\scorp\Desktop\Dungeon\Dungeon\obj\Debug\Dungeon.pdb
